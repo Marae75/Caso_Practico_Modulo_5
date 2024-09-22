@@ -1,7 +1,7 @@
 # Caso_Practico_Modulo_5
 Caso Practico Modulo 5 -Power Bi-  Diplomado Analitica y Ciencia de Datos
 
-### "Propuesta de Dashboard en Power B, de la Empresa Superstore.
+### "Propuesta de Dashboard en Power B, de la Empresa Superstore"
 
 ## OBJETIVO
 
@@ -37,20 +37,20 @@ El archivo adjunto "Caso_Practico_Mod_5.pbix" cuenta con las siguientes visualiz
     + Pagina oculta que presenta meditante una tabla el detalle por Región, País, Estado, Ciudad, Categoría en sus respectivas Ventas y sus Totales.
 	+ Boton de control para regresar a página General.
 
-###Imagenes
+### Imagenes
 
-# GENERAL
+### GENERAL
 ![General](https://github.com/user-attachments/assets/2cd6dad2-d867-4eb5-863e-90eedc6321a2)
 
-# RESUMEN ANUAL
+### RESUMEN ANUAL
 
 ![Resumen_Anual](https://github.com/user-attachments/assets/e56cb8be-fa16-4496-8acc-d30a4d7ef4cc)
 
-# RESUMEN UTILIDAD
+### RESUMEN UTILIDAD
 
 ![Resumen_Utilidad](https://github.com/user-attachments/assets/eb2ca295-0bf9-48d7-9909-d8513884bdd0)
 
-# DETALLE POR REGION
+### DETALLE POR REGION
 
 ![Detalle por Region](https://github.com/user-attachments/assets/c224fb17-898f-4f01-b462-3377d149665b)
 
